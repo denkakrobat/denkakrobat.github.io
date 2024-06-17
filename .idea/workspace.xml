@@ -1,0 +1,222 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="dd356ac7-dd64-4882-9ab7-e431ba932d57" name="Changes" comment="iiio">
+      <change beforePath="$PROJECT_DIR$/.devcontainer/Dockerfile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.devcontainer/base.Dockerfile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.devcontainer/devcontainer.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.devcontainer/post-create.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.github/FUNDING.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.github/ISSUE_TEMPLATE/bug_report.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.github/ISSUE_TEMPLATE/config.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.github/ISSUE_TEMPLATE/feature_request.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.github/dependabot.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.github/workflows/ci.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.github/workflows/deploy.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.github/workflows/publish-gem.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.github/workflows/update_jekyll-anchor-heading.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/denkakrobat.github.io.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.prettierignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.vscode/tasks.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/404.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CHANGELOG.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CODE_OF_CONDUCT.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dockerfile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Gemfile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Gemfile.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LICENSE.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MIGRATION.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rakefile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/components/aux_nav.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/components/breadcrumbs.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/components/children_nav.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/components/footer.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/components/header.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/components/mermaid.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/components/nav.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/components/search_footer.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/components/search_header.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/components/sidebar.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/components/site_nav.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/css/activation.scss.liquid" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/css/callouts.scss.liquid" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/css/custom.scss.liquid" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/css/just-the-docs.scss.liquid" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/favicon.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/fix_linenos.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/footer_custom.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/head.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/head_custom.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/header_custom.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/icons/code_copy.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/icons/document.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/icons/expand.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/icons/external_link.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/icons/icons.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/icons/link.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/icons/menu.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/icons/search.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/js/custom.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/lunr/custom-data.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/lunr/custom-index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/mermaid_config.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/nav_footer_custom.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/search_placeholder_custom.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/sorted_pages.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/title.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/toc_heading_custom.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_layouts/about.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_layouts/default.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_layouts/home.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_layouts/minimal.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_layouts/page.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_layouts/post.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_layouts/table_wrappers.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_sass/base.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_sass/buttons.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_sass/code.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_sass/color_schemes/dark.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_sass/color_schemes/legacy_light.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_sass/color_schemes/light.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_sass/content.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_sass/custom/custom.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_sass/custom/setup.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_sass/labels.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_sass/layout.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_sass/modules.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_sass/navigation.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_sass/print.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_sass/search.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_sass/skiptomain.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_sass/support/_variables.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_sass/support/mixins/_buttons.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_sass/support/mixins/_layout.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_sass/support/mixins/_typography.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_sass/support/mixins/mixins.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_sass/support/support.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_sass/tables.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_sass/typography.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_sass/utilities/_colors.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_sass/utilities/_layout.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_sass/utilities/_lists.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_sass/utilities/_spacing.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_sass/utilities/_typography.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_sass/utilities/utilities.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/css/just-the-docs-dark.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/css/just-the-docs-default.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/css/just-the-docs-head-nav.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/css/just-the-docs-light.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/large-image.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/small-image.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/js/just-the-docs.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/js/zzzz-search-data.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/just-the-docs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docker-compose.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/configuration.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/customization.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/index-test.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/layout/layout.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/layout/minimal/default-child.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/layout/minimal/minimal-child.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/layout/minimal/minimal.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/minimal-test.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/navigation-structure.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/search.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/ui-components/buttons.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/ui-components/callouts.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/ui-components/code.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/ui-components/labels.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/ui-components/line-nos.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/ui-components/lists.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/ui-components/tables.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/ui-components/typography.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/ui-components/ui-components.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/utilities/color.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/utilities/layout.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/utilities/responsive-modifiers.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/utilities/typography.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/utilities/utilities.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fixtures/Gemfile-github-pages" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fixtures/Gemfile-jekyll-3.9" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fixtures/Gemfile-jekyll-4.3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fixtures/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fixtures/html5validator-config.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/just-the-docs.gemspec" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/tasks/search.rake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/denkakrobat/denkakrobat.github.io.git",
+    "accountId": "668caf9f-0b27-41bc-9e85-7bcb3edeafe0"
+  }
+}]]></component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 4
+}]]></component>
+  <component name="ProjectId" id="2i0aRZZdIrBaF6UT64U0AIfauLq" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="dd356ac7-dd64-4882-9ab7-e431ba932d57" name="Changes" comment="" />
+      <created>1718629942255</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1718629942255</updated>
+    </task>
+    <task id="LOCAL-00001" summary="iiio">
+      <option name="closed" value="true" />
+      <created>1718629995550</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1718629995550</updated>
+    </task>
+    <task id="LOCAL-00002" summary="iiio">
+      <option name="closed" value="true" />
+      <created>1718630014910</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1718630014910</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="CHECK_NEW_TODO" value="false" />
+    <MESSAGE value="iiio" />
+    <option name="LAST_COMMIT_MESSAGE" value="iiio" />
+  </component>
+</project>
